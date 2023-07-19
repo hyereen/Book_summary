@@ -417,15 +417,20 @@ p.136 실험계획법 DOE, Design Of Experiment
   - 직교화의 원리
   - 교락의 원리
 - 주요 용어
-  - 인자 Factor
-  - 특성치 Characteristic Value
-  - 수준 Level
-  - 주효과 Main Effect
-  - 교호효과 Interaction Effect
-  - 교락 Confounding
-  - 블록 Block
-  - 반복 Replication
-  - 중복 Repetition
+  - 인자 Factor: 실제 실험 대상, 입력변수 X
+  - 특성치 Characteristic Value: 실험의 모든 결과값, 출력변수 Y
+  - 수준 Level: 실험하기 위한 인자의 조건, 인자의 정도나 값
+  - 주효과 Main Effect: 각 입력 변수의 수준간 차이, 인자가 독립적으로 반응에 미치는 영향 
+  - 교호효과 Interaction Effect: 특정한 인자 수준의 조합에서 일어나는 효과, 인자들이 혼합되어 반응에 미치는 영향
+  - 교락 Confounding: 2개 이상의 효과(주효과 또는 교호효과)를 구별할 수 없도록 계획적으로 조합하는 것
+  - 블록 Block: 실험 단위가 균일할 수 있도록 단위를 모은 것
+  - 반복 Replication: 인자들의 동일한 수준 조합에서 다회의 실험을 진행
+  - 중복 Repetition: 한 실험에서 여러 개의 대상을 측정
+- 종류
+  - 요인배치법
+  - 분할법
+  - 교락법
+  - 난괴법
   
 # 5과목
 
